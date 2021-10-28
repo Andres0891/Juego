@@ -1,0 +1,13 @@
+img{
+
+    width: 100px;
+    height: 100px;
+}
+
+#ganador{
+
+    width: max-content;
+    height: max-content;
+    display: block; margin: auto;
+
+}
